@@ -1,0 +1,1 @@
+colmap installation: https://github.com/colmap/colmap/releases
